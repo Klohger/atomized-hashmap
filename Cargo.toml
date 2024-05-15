@@ -1,0 +1,8 @@
+[package]
+name = "atomized-hashmap"
+version = "0.1.0"
+authors = ["KLohger"]
+edition = "2021"
+
+[dependencies]
+slab = "0.4.9"
